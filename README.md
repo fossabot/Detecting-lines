@@ -1,4 +1,6 @@
 # Detecting-lines
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMingHieu%2FDetecting-lines.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMingHieu%2FDetecting-lines?ref=badge_shield)
+
  Detection of lines using opencv and python.
  This Initial system shows basic concepts of machine vision in assisted driving.The code is free to be used and        modified  by anybody who wishes to do so.
  - Video results: [Detecting Lines Opencv Python ](https://www.youtube.com/watch?v=IkkdvRMW7R8&t=241s)
@@ -49,3 +51,7 @@ Instructions to run the code from linux console
 ------------
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMingHieu%2FDetecting-lines.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMingHieu%2FDetecting-lines?ref=badge_large)
